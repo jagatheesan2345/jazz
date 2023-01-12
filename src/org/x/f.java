@@ -4,7 +4,7 @@ public class f {
 
 	private void jazz(String name) {
 		System.out.println("kavi");
-		
+		System.out.println("daya");
 		System.out.println("THIS IS MY NAME :" +name);
 	}
 	public void java(int age) 
